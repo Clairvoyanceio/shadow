@@ -41,7 +41,7 @@
     "better-auth": "^1.2.12",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
-    "diff": "^8.0.2",
+    "diff": "^8.0.3",
     "lucide-react": "^0.525.0",
     "marked": "^16.1.1",
     "material-icon-theme": "^5.25.0",
